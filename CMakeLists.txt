@@ -1,0 +1,5 @@
+﻿cmake_minimum_required (VERSION 3.22)
+
+project ("MinecraftClone")
+
+add_subdirectory ("MinecraftClone")
